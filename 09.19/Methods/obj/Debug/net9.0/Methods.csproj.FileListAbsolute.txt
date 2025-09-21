@@ -1,0 +1,14 @@
+C:\Users\Daimo\Desktop\Bit Academy 2025\09.19\Methods\bin\Debug\net9.0\Methods.exe
+C:\Users\Daimo\Desktop\Bit Academy 2025\09.19\Methods\bin\Debug\net9.0\Methods.deps.json
+C:\Users\Daimo\Desktop\Bit Academy 2025\09.19\Methods\bin\Debug\net9.0\Methods.runtimeconfig.json
+C:\Users\Daimo\Desktop\Bit Academy 2025\09.19\Methods\bin\Debug\net9.0\Methods.dll
+C:\Users\Daimo\Desktop\Bit Academy 2025\09.19\Methods\bin\Debug\net9.0\Methods.pdb
+C:\Users\Daimo\Desktop\Bit Academy 2025\09.19\Methods\obj\Debug\net9.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daimo\Desktop\Bit Academy 2025\09.19\Methods\obj\Debug\net9.0\Methods.AssemblyInfoInputs.cache
+C:\Users\Daimo\Desktop\Bit Academy 2025\09.19\Methods\obj\Debug\net9.0\Methods.AssemblyInfo.cs
+C:\Users\Daimo\Desktop\Bit Academy 2025\09.19\Methods\obj\Debug\net9.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Daimo\Desktop\Bit Academy 2025\09.19\Methods\obj\Debug\net9.0\Methods.dll
+C:\Users\Daimo\Desktop\Bit Academy 2025\09.19\Methods\obj\Debug\net9.0\refint\Methods.dll
+C:\Users\Daimo\Desktop\Bit Academy 2025\09.19\Methods\obj\Debug\net9.0\Methods.pdb
+C:\Users\Daimo\Desktop\Bit Academy 2025\09.19\Methods\obj\Debug\net9.0\Methods.genruntimeconfig.cache
+C:\Users\Daimo\Desktop\Bit Academy 2025\09.19\Methods\obj\Debug\net9.0\ref\Methods.dll
