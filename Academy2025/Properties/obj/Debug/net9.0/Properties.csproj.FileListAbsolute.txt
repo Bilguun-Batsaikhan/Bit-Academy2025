@@ -1,5 +1,0 @@
-C:\Users\Daimo\Desktop\Bit Academy 2025\Academy2025\Properties\obj\Debug\net9.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Daimo\Desktop\Bit Academy 2025\Academy2025\Properties\obj\Debug\net9.0\Properties.AssemblyInfoInputs.cache
-C:\Users\Daimo\Desktop\Bit Academy 2025\Academy2025\Properties\obj\Debug\net9.0\Properties.AssemblyInfo.cs
-C:\Users\Daimo\Desktop\Bit Academy 2025\Academy2025\Properties\obj\Debug\net9.0\Properties.csproj.CoreCompileInputs.cache
-C:\Users\Daimo\Desktop\Bit Academy 2025\Academy2025\Properties\obj\Debug\net9.0\Properties.sourcelink.json
